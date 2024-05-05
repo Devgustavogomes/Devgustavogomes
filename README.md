@@ -1,16 +1,16 @@
-### Hi there 👋
+### Sobre mim:
 
-<!--
-**Devgustavogomes/Devgustavogomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Olá, meu nome é Gustavo. Tenho 19 anos e cursei Engenharia da Computação na Universidade Federal do Ceará por 2 anos, mas acabei deixando a universidade por motivos pessoais. Atualmente, estou estudando inglês e desenvolvimento web para buscar uma oportunidade de emprego.
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=black)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=black)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&color=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<a href="https://www.instagram.com/gustavo.gomeess/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=black">
+</a>
+<a href="https://www.linkedin.com/in/devgustavogomes/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black">
+</a>
+
