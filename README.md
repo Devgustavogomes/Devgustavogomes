@@ -1,6 +1,6 @@
 ### Sobre mim:
 
- Olá, meu nome é Gustavo. Tenho 20 anos, atualmente cursando Ciências da Computação na UNIFOR. No momento, estou estudando inglês e desenvolvimento web para buscar uma oportunidade de emprego. 
+ Olá, meu nome é Gustavo. Tenho 20 anos, atualmente cursando Ciência da Computação na UNIFOR. No momento, estou estudando inglês e desenvolvimento web para buscar uma oportunidade de emprego. 
  <br>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devgustavogomes&show_icons=true&theme=tokyonight"></img>
