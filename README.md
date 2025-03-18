@@ -20,4 +20,7 @@
 <a href="https://www.linkedin.com/in/devgustavogomes/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black">
 </a>
+<a href="devgustavogomes31@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black">
+</a>
 
