@@ -1,6 +1,6 @@
 ### Sobre mim
 
-Olá, meu nome é Gustavo. Tenho 20 anos, atualmente cursando Ciência da Computação na UNIFOR. No momento, estou estudando inglês e desenvolvimento web para buscar uma oportunidade de emprego.
+Sou estudante de Ciência da Computação com grande interesse em desenvolvimento web e aplicações fullstack. Sempre tive curiosidade em entender como as interfaces funcionam por trás dos bastidores, o que me levou a explorar o mundo da programação com mais profundidade.
 
 ---
 
