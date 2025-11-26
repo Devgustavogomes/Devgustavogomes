@@ -4,7 +4,6 @@ Sou estudante de Ciência da Computação com grande interesse em desenvolviment
 
 ---
 
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devgustavogomes&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devgustavogomes&hide_progress=false&theme=tokyonight&layout=donut)
 
 ---
