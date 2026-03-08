@@ -1,6 +1,6 @@
 ### Sobre mim
 
-Sou estudante de Ciência da Computação com grande interesse em desenvolvimento web e aplicações fullstack. Sempre tive curiosidade em entender como as interfaces funcionam por trás dos bastidores, o que me levou a explorar o mundo da programação com mais profundidade.
+Desenvolvedor Full Stack com experiência prática em todo o ecossistema JavaScript/TypeScript. Desenvolvi e coloquei em produção o Pronto Pra Vaga, uma aplicação completa planejada e programada do zero, atualmente online e em funcionamento. Também mantenho diversos projetos pessoais, focados em evolução técnica e construção de produtos reais.
 
 ---
 
