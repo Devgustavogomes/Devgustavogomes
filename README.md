@@ -1,17 +1,12 @@
 ### Sobre mim
 
-Desenvolvedor Full Stack com experiência prática em todo o ecossistema JavaScript/TypeScript. Desenvolvi e coloquei em produção o Pronto Pra Vaga, uma aplicação completa planejada e programada do zero, atualmente online e em funcionamento. Também mantenho diversos projetos pessoais, focados em evolução técnica e construção de produtos reais.
+Desenvolvedor Full Stack com experiência prática em todo o ecossistema JavaScript/TypeScript. Desenvolvi e coloquei em produção o [Pronto Pra Vaga](https://www.prontopravaga.com), uma aplicação fullstack com integração de IA, planejada e programada do zero, atualmente online e em funcionamento. Também mantenho diversos projetos pessoais, focados em evolução técnica e construção de produtos reais.
 
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devgustavogomes&hide_progress=false&theme=tokyonight&layout=donut)
 
 ---
-
-## 💼 Meu Portfólio
-
-[![Portfolio](https://img.shields.io/badge/Meu_Portfólio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-v2-brown-two-73.vercel.app/)
-
 
 ## 🚀 Tecnologias
 
